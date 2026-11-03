@@ -15,7 +15,7 @@ Az elozo repoval tortent egy kis baleset, ujrakezdjuk a feladatot.
 | Kollaboratorok meghivasa | Rasztovits Levente | Kesz |
 | README fajl elkeszitese | Rasztovits Levente | Kesz |
 | Hello world alkalmazas | Rasztovits Levente | Kesz |
-| Python GitHub runner kereses | Rasztovits Levente | Nincs kesz |
+| Python GitHub runner kereses | Rasztovits Levente | Kesz |
 | Python tesztek irasa | Melhem Mohamed | Nincs kesz |
 | YAML fajl testreszabasa a projektre | Kover Marcell | Nincs kesz |
 | Branch protection engedelyezese | Rasztovits Levente | Nincs kesz |
