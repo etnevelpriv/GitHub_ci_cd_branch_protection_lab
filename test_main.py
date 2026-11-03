@@ -11,3 +11,9 @@ main()
 
 def test():
     assert osszeAdas(10,5) == 15
+
+
+
+
+
+    
