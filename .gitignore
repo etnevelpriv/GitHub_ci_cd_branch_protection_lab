@@ -1,1 +1,3 @@
 # Ugyebar itt lenne a .github es a .venv is, de mivel sulis projekt, igy nincs :))
+/.pytest_cache
+/.venv

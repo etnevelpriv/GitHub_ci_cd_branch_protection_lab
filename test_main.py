@@ -8,3 +8,6 @@ def main():
     print(osszeAdas(10,5))
     udvozles("Balint")
 main()
+
+def test():
+    assert osszeAdas(10,5) == 15
