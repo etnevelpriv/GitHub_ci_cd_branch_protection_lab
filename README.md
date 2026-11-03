@@ -22,3 +22,5 @@ Az elozo repoval tortent egy kis baleset, ujrakezdjuk a feladatot.
 | Hiba bevezetese | Kover Marcell | Nincs kesz |
 | Hiba javitasa | Melhem Mohamed | Nincs kesz |
 | Code review | Rasztovits Levente | Nincs kesz |
+
+igazabol nem ilyen sorrendben haladtunk, nem igy osztottuk fel a feladatot, szoval teljesen felesleges volt ez a tablazat, de majd legkozelebb
