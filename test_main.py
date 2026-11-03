@@ -1,5 +1,5 @@
 def osszeAdas(a: int, b:int):
-    return a+b
+    return a+b+1
 
 def udvozles(nev:str):
     print(f"Hellof, {nev}")
