@@ -13,8 +13,8 @@ Az elozo repoval tortent egy kis baleset, ujrakezdjuk a feladatot.
 | :------- | :------: | :------: |
 | Repository letrehozasa | Rasztovits Levente | Kesz |
 | Kollaboratorok meghivasa | Rasztovits Levente | Kesz |
-| README fajl elkeszitese | Rasztovits Levente | Folyamatban |
-| Hello world alkalmazas | Rasztovits Levente | Nincs kesz |
+| README fajl elkeszitese | Rasztovits Levente | Kesz |
+| Hello world alkalmazas | Rasztovits Levente | Kesz |
 | Python GitHub runner kereses | Rasztovits Levente | Nincs kesz |
 | Python tesztek irasa | Melhem Mohamed | Nincs kesz |
 | YAML fajl testreszabasa a projektre | Kover Marcell | Nincs kesz |
