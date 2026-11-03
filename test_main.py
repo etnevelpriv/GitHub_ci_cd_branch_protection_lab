@@ -2,7 +2,7 @@ def osszeAdas(a: int, b:int):
     return a+b
 
 def udvozles(nev:str):
-    print(f"Hello, {nev}")
+    print(f"Hellof, {nev}")
     
 def main():
     print(osszeAdas(10,5))
